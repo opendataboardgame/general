@@ -257,9 +257,9 @@ EventLogoPaper:
 
 EventImpactTitle:
   extends: EventText
-  y: 410
-  font: Helvetica Neue,Helvetica,Sans bold 45
-  font_size: 45
+  y: 435
+  font: Helvetica Neue,Helvetica,Sans bold 35
+  font_size: 35
   ellipsize: false
 
 EventImpactSubtitle:
@@ -286,8 +286,8 @@ EventMediaTitle:
   extends: EventText
   color: '#000000'
   y: 485
-  font: Helvetica Neue,Helvetica,Sans bold 45
-  font_size: 45
+  font: Helvetica Neue,Helvetica,Sans bold 35
+  font_size: 35
   ellipsize: false
 
 EventMediaSubtitle:
@@ -314,8 +314,8 @@ EventEffectText:
 EventCrisisTitle:
   extends: EventText
   y: 300
-  font: Helvetica Neue,Helvetica,Sans bold 54
-  font_size: 54
+  font: Helvetica Neue,Helvetica,Sans bold 45
+  font_size: 45
 
 EventCrisisDescription:
   extends: EventText
