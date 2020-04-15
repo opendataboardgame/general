@@ -22,7 +22,7 @@ GEM
       cairo (>= 1.12.8)
       gdk_pixbuf2 (= 3.0.7)
     ruby-progressbar (1.7.5)
-    rubyzip (1.1.7)
+    rubyzip (1.3.0)
     squib (0.9.0)
       cairo (~> 1.14.3)
       mercenary (~> 0.3.4)
